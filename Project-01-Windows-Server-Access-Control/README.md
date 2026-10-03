@@ -60,10 +60,9 @@ Users were added to the appropriate security groups according to their required 
 
 
 
-!\[AD Group Members for Modify Permission](Evidence/02-AD-Group-Members.PNG)
+<img src="./Evidence/02-AD-Group-Members.PNG" alt="AD Group Members for Modify Permissios">
 
-!\[AD Group Members for read Permission](Evidence/03-AD-Group-Members.PNG)
-
+<img src="./Evidence/03-AD-Group-Members.PNG" alt="AD Group Members for Read Permissions">
 
 
 **## 3. Shared Folder Configuration**

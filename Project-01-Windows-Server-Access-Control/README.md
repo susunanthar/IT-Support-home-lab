@@ -50,7 +50,7 @@ Security groups are created in AD to manage access to shared folder based on use
 
 
 
-!\[AD Security Groups] (Evidence/01-AD-Security-Grups.png)
+!\[AD Security Groups](Evidence/01-AD-Security-Grups.png)
 
 
 
@@ -60,9 +60,9 @@ Users were added to the appropriate security groups according to their required 
 
 
 
-!\[AD Group Members for Modify Permission] (Evidence/02-AD-Group-Members.png)
+!\[AD Group Members for Modify Permission](Evidence/02-AD-Group-Members.png)
 
-!\[AD Group Members for read Permission] (Evidence/03-AD-Group-Members.png)
+!\[AD Group Members for read Permission](Evidence/03-AD-Group-Members.png)
 
 
 
@@ -72,7 +72,7 @@ The 'practice\_shared' folder was configured as a Windows Server shared folder.
 
 
 
-!\[Shared Folder] (Evidence/04-shared-Folder.png)
+!\[Shared Folder](Evidence/04-shared-Folder.png)
 
 
 
@@ -82,7 +82,7 @@ Share-level permissions were configured for the shard folder.
 
 
 
-!\[Share Permissions] (Evidence/05-Share-Permissions.png)
+!\[Share Permissions](Evidence/05-Share-Permissions.png)
 
 
 
@@ -92,7 +92,7 @@ The group was granted NTFS modify permissions on the folder.
 
 
 
-!\[NTFS Modify Permission] (Evidence/06-NTFS-Modify-Permission.png)
+!\[NTFS Modify Permission](Evidence/06-NTFS-Modify-Permission.png)
 
 
 
@@ -102,7 +102,7 @@ The group was granted NTFS read permission on the folder.
 
 
 
-!\[NTFS Read Permission] (Evidence/07-NTFS-Read-Permission.png)
+!\[NTFS Read Permission](Evidence/07-NTFS-Read-Permission.png)
 
 
 
@@ -112,11 +112,11 @@ A user with modify permission successfully created and deleted a file.
 
 
 
-!\[Create File Test] (Evidence/08-Create-File-Test.png)
+!\[Create File Test](Evidence/08-Create-File-Test.png)
 
-!\[Delete File Try] (Evidence/09-try-to-delete-file-test.png)
+!\[Delete File Try](Evidence/09-try-to-delete-file-test.png)
 
-!\[Delete File Success] (Evidence/10-Delete-File-Success.png)
+!\[Delete File Success](Evidence/10-Delete-File-Success.png)
 
 
 
@@ -126,13 +126,5 @@ A user with read permission was unable to read file contents of the shared folde
 
 
 
-!\[Access File Denied] (Evidence/11-Access-File-Denied.png)
-
-
-
-
-
-
-
-
+!\[Access File Denied](Evidence/11-Access-File-Denied.png)
 

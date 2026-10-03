@@ -50,7 +50,7 @@ Security groups are created in AD to manage access to shared folder based on use
 
 
 
-!\[AD Security Groups](Evidence/01-AD-Security-Groups.PNG)
+<img src="./Evidence/01-AD-Security-Groups.PNG" alt="AD Security Groups">
 
 
 

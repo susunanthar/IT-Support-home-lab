@@ -112,11 +112,11 @@ A user with modify permission successfully created and deleted a file.
 
 
 
-!\[Create File Test](Evidence/08-Create-File-Test.PNG)
+!\[Create File Test](Evidence/08-Create-File-Test.png)
 
-!\[Delete File Try](Evidence/09-try-to-delete-file-test.PNG)
+!\[Delete File Try](Evidence/09-try-to-delete-file-test.png)
 
-!\[Delete File Success](Evidence/10-Delete-File-Success.PNG)
+!\[Delete File Success](Evidence/10-Delete-File-Success.png)
 
 
 
@@ -126,5 +126,5 @@ A user with read permission was unable to read file contents of the shared folde
 
 
 
-!\[Access File Denied](Evidence/11-Access-File-Denied.PNG)
+!\[Access File Denied](Evidence/11-Access-File-Denied.png)
 

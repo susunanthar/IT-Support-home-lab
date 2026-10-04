@@ -82,7 +82,7 @@ Share-level permissions were configured for the shard folder.
 
 
 
-!\[Share Permissions](Evidence/05-Share-Permissions.PNG)
+<img src="./Evidence/05-Share-Permissions.PNG" alt="configured share permission">
 
 
 

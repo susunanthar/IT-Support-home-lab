@@ -71,7 +71,8 @@ The 'practice\_shared' folder was configured as a Windows Server shared folder.
 
 
 
-!\[Shared Folder](Evidence/04-shared-Folder.PNG)
+<img src="./Evidence/04-Shared-Folder.PNG" alt="configuring shared folder">
+
 
 
 

@@ -60,10 +60,9 @@ Users were added to the appropriate security groups according to their required 
 
 
 
-!\[AD Group Members for Modify Permission](Evidence/02-AD-Group-Members.PNG)
+<img src="./Evidence/02-AD-Group-Members.PNG" alt="AD Group Members for Modify Permissios">
 
-!\[AD Group Members for read Permission](Evidence/03-AD-Group-Members.PNG)
-
+<img src="./Evidence/03-AD-Group-Members.PNG" alt="AD Group Members for Read Permissions">
 
 
 **## 3. Shared Folder Configuration**
@@ -72,7 +71,8 @@ The 'practice\_shared' folder was configured as a Windows Server shared folder.
 
 
 
-!\[Shared Folder](Evidence/04-shared-Folder.PNG)
+<img src="./Evidence/04-Shared-Folder.PNG" alt="configuring shared folder">
+
 
 
 
@@ -82,7 +82,7 @@ Share-level permissions were configured for the shard folder.
 
 
 
-!\[Share Permissions](Evidence/05-Share-Permissions.PNG)
+<img src="./Evidence/05-Share-Permissions.PNG" alt="configured share permission">
 
 
 
@@ -92,7 +92,8 @@ The group was granted NTFS modify permissions on the folder.
 
 
 
-!\[NTFS Modify Permission](Evidence/06-NTFS-Modify-Permission.PNG)
+<img src="./Evidence/06-NTFS-Modify-Permission.PNG" alt="assingned NTFS modify permission">
+
 
 
 
@@ -102,7 +103,7 @@ The group was granted NTFS read permission on the folder.
 
 
 
-!\[NTFS Read Permission](Evidence/07-NTFS-Read-Permission.PNG)
+<img src="./Evidence/07-NTFS-Read-Permission.PNG" alt="assinged NTFS read permission">
 
 
 
@@ -112,11 +113,14 @@ A user with modify permission successfully created and deleted a file.
 
 
 
-!\[Create File Test](Evidence/08-Create-File-Test.png)
+<img src="./Evidence/08-Create-File-Text.png" alt="create text file">
 
-!\[Delete File Try](Evidence/09-try-to-delete-file-test.png)
 
-!\[Delete File Success](Evidence/10-Delete-File-Success.png)
+<img src="./Evidence/09-try-to-delete-file-test.png" alt="delete text file">
+
+
+<img src="./Evidence/10-Delete-File-Success.png" alt="successfully deleted test file">
+
 
 
 
@@ -126,5 +130,6 @@ A user with read permission was unable to read file contents of the shared folde
 
 
 
-!\[Access File Denied](Evidence/11-Access-File-Denied.png)
+<img src="./Evidence/11-Access-File-Denied.png" alt="test delete file with read permission">
+
 

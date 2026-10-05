@@ -188,7 +188,7 @@ Performed the password reset for the domain user.
 
 
 
-<img src="./Evidence/11-Reset-User-Password.png" alt="Account password reset">
+<img src="./Evidence/11-Reset-User-Password.png" alt="Reset User Password">
 
 
 

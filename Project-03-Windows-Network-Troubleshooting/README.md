@@ -68,7 +68,7 @@ Used 'ipconfig' to review the Windows client's IP address, subnet mask, default 
 
 
 
-Used 'ping 127.0.0.1' to verify that the local TCP/IP stack was responding. This test checks the local computer's networking functionality without sending traffic through the physical network. 
+Used 'ping 127.0.0.1' to verify that the local TCP/IP stack was responding. This test checks the local computer's networking functionality without sending traffic through the physical network.
 
 
 
@@ -118,7 +118,7 @@ Used 'ping 8.8.8.8' to test reachability to an external IP address without relyi
 
 
 
-Used 'nslookup google.com' to check whether the DNS system could resolve a hostname to an IP address. 
+Used 'nslookup google.com' to check whether the DNS system could resolve a hostname to an IP address.
 
 
 
@@ -138,7 +138,7 @@ Used 'ping' to test connectivity to hostnames, including 'google.com' and the la
 
 
 
-\### 8. Network Path Inspection
+**### 8. Network Path Inspection**
 
 
 
@@ -147,6 +147,122 @@ Used 'tracert google.com' to inspect the network path toward an external destina
 
 
 <img src="./Evidence/08-Tracert-Network-Path.png" alt="Tracert Network Path">
+
+
+
+**## 9. Network Adapter Failure Simulation**
+
+
+
+Disabled the Windows client's network adapter to simulate a common connectivity issue, such as an accidentally disabled adapter.
+
+
+
+<img src="./Evidence/09-Network-Adapter-Disabled.png" alt="Network Adapter Disabled">
+
+
+
+**## 10. Connectivity Test During Adapter Failure**
+
+
+
+Tested connectivity to the Windows Server while the adapter was disabled. The failed connection demonstrated how an inactive network adapter can prevent communication with other devices.
+
+
+
+<img src="./Evidence/10-Connectivity-Test-Failed.png" alt="Connectivity Test Failed">
+
+
+
+**## 11. Network Connectivity Restored**
+
+
+
+Re-enabled the network adapter and tested connectivity to the Windows Server again. Successful replies verified that connectivity had recovered.
+
+
+
+<img src="./Evidence/11-a-Network-Restored.png" alt="Network Connectivity Restored">
+
+
+
+<img src="./Evidence/11-b-Network-Restored.png" alt="Network Connectivity Restored">
+
+
+
+**## 12. Incorrect DNS Configuration**
+
+
+
+Configured an intentionally incorrect DNS server address to simulate a DNS configuration problem in the lab.
+
+
+
+<img src="./Evidence/12-Incorrect-DNS-Configuration.png" alt="Incorrect DNS Configuration">
+
+
+
+**## 13. DNS Troubleshooting Test**
+
+
+
+Compared connectivity to an external IP address with hostname resolution using 'nslookup'. Successful IP connectivity alongside failed DNS resolution helped identify DNS as the likely source of the problem.
+
+
+
+<img src="./Evidence/13-DNS-Troubleshooting-Test.png" alt="DNS Troubleshooting Test">
+
+
+
+**## 14. DNS Configuration Restored**
+
+
+
+Restored the original DNS configuration and repeated the DNS and hostname connectivity tests to verify that name resolution was working again.
+
+
+
+<img src="./Evidence/14-DNS-Configuration-Restored.png" alt="dns configuration restored">
+
+
+
+**## 15. Unreachable Network Destination Test**
+
+
+
+Tested connectivity to a documentation-only IP address that was expected to be unreachable. This demonstrated how to recognize an unsuccessful connectivity test. It did not establish that the actual default gateway was misconfigured. 
+
+
+
+<img src="./Evidence/15-Unreachable-Network-Destination-Test.png" alt="unreachable network destination test">
+
+
+
+**16. Final Network Connectivity Verification**
+
+
+
+Tested connectivity to the Windows Server, an external IP address, and a host name after completing the troubleshooting exercises. Successful results confirmed that the lab's network connectivity was functioning again.
+
+
+
+<img src="./Evidence/16-Network-Connectivity-Verified.png" alt="network connectivity verified">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

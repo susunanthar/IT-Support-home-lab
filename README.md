@@ -26,3 +26,11 @@ Configured Active Directory security groups and NTFS permissions to control acce
 
 Configured Active Directory user accounts and account policies, and demonstrated user account management and group membership verification.
 
+
+
+**## Project 03 - Windows Network Troubleshooting**
+
+
+
+Practiced Windows network troubleshooting using 'ipconfig', 'ping', 'nslookup', and 'tracert'. Simulated a network adapter failure and incorrect DNS configuration, diagnosed connectivity and name-resolution issues, and verified recovery after restoring the original settings.
+

@@ -138,7 +138,7 @@ Port 3309 was used as a test port; it is not the default RDP port.
 
 
 
-<img src="./Evidence/07-RDP-Connection-Failure.png" alt="rdp connection failure>
+<img src="./Evidence/07-RDP-Connection-Failure.png" alt="rdp connection failure">
 
 
 

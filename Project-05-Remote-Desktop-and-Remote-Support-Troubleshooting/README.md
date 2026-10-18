@@ -146,7 +146,7 @@ Port 3309 was used as a test port; it is not the default RDP port.
 
 
 
-Used PowerShell's 'Get-NetTCPConnection' cmdlet to investigate whether a TCP listener was present on the test port. This demoatrated how PowerShell can help investigate listening ports during connectivityi troubleshooting.
+Used PowerShell's 'Get-NetTCPConnection' cmdlet to investigate whether a TCP listener was present on the test port. This demoatrated how PowerShell can help investigate listening ports during connectivity troubleshooting.
 
 
 

@@ -12,7 +12,7 @@ Hands-on IT support home lab projects covering Windows Server, Active Directory,
 
 
 
-**## Project 01 - Windows Server File Share Access Control**
+**### Project 01 - Windows Server File Share Access Control**
 
 
 
@@ -20,7 +20,7 @@ Configured Active Directory security groups and NTFS permissions to control acce
 
 
 
-**## Project 02 - Active Directory User \& Account Management**
+**### Project 02 - Active Directory User \& Account Management**
 
 
 
@@ -28,9 +28,25 @@ Configured Active Directory user accounts and account policies, and demonstrated
 
 
 
-**## Project 03 - Windows Network Troubleshooting**
+**### Project 03 - Windows Network Troubleshooting**
 
 
 
 Practiced Windows network troubleshooting using 'ipconfig', 'ping', 'nslookup', and 'tracert'. Simulated a network adapter failure and incorrect DNS configuration, diagnosed connectivity and name-resolution issues, and verified recovery after restoring the original settings.
+
+
+
+**### Project 04 - Windows OS and Performance Troubleshooting**
+
+
+
+Practiced Windows OS troubleshooting using built-in diagnostic tools in a virtual lab environment. Investigated system resource usage, reviewed startup applications, checked windows update status and system reliability, and used System File Checker (SFC) to repair corrupted system files.
+
+
+
+
+
+
+
+
 

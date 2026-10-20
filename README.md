@@ -44,9 +44,9 @@ Practiced Windows OS troubleshooting using built-in diagnostic tools in a virtua
 
 
 
+**### Project 05 - Remote Desktop and Connectivity Troubleshooting**
 
 
 
-
-
+Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Windows client and server virtual machines. Verified the server hostname and IP address, checked Remote Desktop configuration and Windows Firewall rules, tested network reachability with 'ping', and used PowerShelll to investigate TCP connectivity on port 3389. Successfully established a remote desktop session and practiced distinguishing ICMP reachability from TCP port availability. 
 

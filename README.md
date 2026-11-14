@@ -1,8 +1,7 @@
-**#** **IT-Support-home-lab**
-
-
+**\*\*IT-Support-home-lab**\*\*
 
 This IT Support Home Lab Portfolio documents my hands-on IT support practice through practical projects in a virtual lab environment. It demostrates my developing technical skills in Windows Server, Active Directory, networking, Windows operating systems, remote desktop support, software installation, and Microsoft 365 applications.
+
 
 
 Through these projects, I practice common IT support tasks, troubleshooting technical issues, investigate potential causes, apply solutions and verify results.
@@ -10,11 +9,12 @@ Through these projects, I practice common IT support tasks, troubleshooting tech
 
 
 
-**##** **Projects**
+
+**Projects**
 
 
 
-**### Project 01 - Windows Server File Share Access Control**
+**Project 01 - Windows Server File Share Access Control**
 
 
 
@@ -50,7 +50,7 @@ Practiced Windows OS troubleshooting using built-in diagnostic tools in a virtua
 
 
 
-Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Windows client and server virtual machines. Verified the server hostname and IP address, checked Remote Desktop configuration and Windows Firewall rules, tested network reachability with 'ping', and used PowerShelll to investigate TCP connectivity on port 3389. Successfully established a remote desktop session and practiced distinguishing ICMP reachability from TCP port availability. 
+Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Windows client and server virtual machines. Verified the server hostname and IP address, checked Remote Desktop configuration and Windows Firewall rules, tested network reachability with 'ping', and used PowerShelll to investigate TCP connectivity on port 3389. Successfully established a remote desktop session and practiced distinguishing ICMP reachability from TCP port availability.
 
 
 

@@ -1,8 +1,8 @@
-**# Microsoft 365 Web Application End-User Troubleshooting**
+**Microsoft 365 Web Application End-User Troubleshooting**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -10,7 +10,7 @@ This project simulates real-world Level 1 (L1) Help support scenarios focused on
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -22,7 +22,7 @@ This project simulates real-world Level 1 (L1) Help support scenarios focused on
 
 
 
-**## Environment \& Tools**
+**Environment & Tools**
 
 
 
@@ -38,15 +38,15 @@ This project simulates real-world Level 1 (L1) Help support scenarios focused on
 
 
 
-**## Tasks Performed**
+**Tasks Performed**
 
 
 
-**### Microsoft Outlook & Mail flow ( Screenshots 01 - 05 )**
+**Microsoft Outlook & Mail flow ( Screenshots 01 - 05 )**
 
 
 
-**#### 1. Verify the Outlook Web Environment**
+**1. Verify the Outlook Web Environment**
 
 
 
@@ -58,7 +58,7 @@ Accessed the Outlook Web App ('outlook.live.com') to confirm account access and 
 
 
 
-**#### 2. Verify Inbound and Outbound Mail Flow**
+**2. Verify Inbound and Outbound Mail Flow**
 
 
 
@@ -70,7 +70,7 @@ Send and received a test email message to confirm active mail delivery and rule 
 
 
 
-**#### 3. Troubleshooting Missing Mail in Focused Inbox**
+**3. Troubleshooting Missing Mail in Focused Inbox**
 
 
 
@@ -84,7 +84,7 @@ Checked both the 'Focused' and 'Other' inbox tabs to locate emails automatically
 
 
 
-**#### 4. Locate Misfiled Messages Using Global Search**
+**4. Locate Misfiled Messages Using Global Search**
 
 
 
@@ -96,7 +96,7 @@ Used the Outlook search bar with keyword filters across all folders to find misp
 
 
 
-**#### 5. Inspect Junk Email and Deleted Items**
+**5. Inspect Junk Email and Deleted Items**
 
 
 
@@ -110,11 +110,11 @@ Reviewed the 'Junk Email' and 'Deleted Items' folders to check for falsely flagg
 
 
 
-**### Microsoft Teams Collaboration & Audio/Video (Screenshots 06 - 10)**
+**Microsoft Teams Collaboration & Audio/Video (Screenshots 06 - 10)**
 
 
 
-**#### 6. Verify Microsoft Teams Web Chat Functionality**
+**6. Verify Microsoft Teams Web Chat Functionality**
 
 
 
@@ -126,7 +126,7 @@ Logged into the Microsoft Teams web client ('teams.live.com') and sent a test me
 
 
 
-**#### 7. Troubleshooting Teams Microphone Settings and OS Permissions**
+**7. Troubleshooting Teams Microphone Settings and OS Permissions**
 
 
 
@@ -140,7 +140,7 @@ Verified the active microphone device inside Teams settings and confirmed app-le
 
 
 
-**#### 8. Troubleshooting Teams Speaker Output and System Volume**
+**8. Troubleshooting Teams Speaker Output and System Volume**
 
 
 
@@ -154,7 +154,7 @@ Checked the selected playback device in Teams audio settings and verified system
 
 
 
-**#### 9. Verify Camera Permissions and Pre-Join Video Settings**
+**9. Verify Camera Permissions and Pre-Join Video Settings**
 
 
 
@@ -168,7 +168,7 @@ Confirmed camera access permissions for Microsoft Teams in Windows Privacy \& Se
 
 
 
-**#### 10. Verify Teams Meeting Access and Controls**
+**10. Verify Teams Meeting Access and Controls**
 
 
 
@@ -179,22 +179,22 @@ Joined an active test meeting to confirm audio, participant visibility, and meet
 <img src="./Evidence/10-Teams-Meeting-Access-Verification.png" alt="teams meeting access verification">
 
 
-### Microsoft OneDrive Cloud Storage & Sharing (Screenshots 11 - 13)
+**Microsoft OneDrive Cloud Storage & Sharing (Screenshots 11 - 13)**
 
-#### 11. Verify the OneDrive Web Environment
+**11. Verify the OneDrive Web Environment**
 
 Accessed the Microsoft OneDrive web portal ('onedrive.live.com') to confirm cloud storage availability in the browser.
 
 <img src="./Evidence/11-OneDrive-Web-Environment.png" alt="onedrive web environment">
 
-#### 12. Verify OneDrive File Upload functionality
+**12. Verify OneDrive File Upload functionality**
 
 Upload a test text file ('OneDrive_test.txt') to confirm active file synchronization and write permissions in cloud storage.
 
 <img src="./Evidence/12-OneDrive-File-Upload-Verification.png" alt="onedrive file upload verification">
 
 
-#### 13. Configure and Verify OneDrive File Sharing Permissions
+**13. Configure and Verify OneDrive File Sharing Permissions**
 
 Configured user access levels ('Can view' vs 'Can edit'), adjusted link sharing scopes, and verified recipient access in the 'shared with me' view.
 

@@ -54,7 +54,7 @@ Security groups are created in AD to manage access to shared folder based on use
 
 
 
-**## 2. Group Memberships**
+**2. Group Memberships**
 
 Users were added to the appropriate security groups according to their required access level.
 
@@ -65,7 +65,7 @@ Users were added to the appropriate security groups according to their required 
 <img src="./Evidence/03-AD-Group-Members.PNG" alt="AD Group Members for Read Permissions">
 
 
-**## 3. Shared Folder Configuration**
+**3. Shared Folder Configuration**
 
 The 'practice\_shared' folder was configured as a Windows Server shared folder.
 
@@ -76,7 +76,7 @@ The 'practice\_shared' folder was configured as a Windows Server shared folder.
 
 
 
-**## 4. Share Permissions**
+**4. Share Permissions**
 
 Share-level permissions were configured for the shard folder.
 
@@ -86,7 +86,7 @@ Share-level permissions were configured for the shard folder.
 
 
 
-**## 5. NTFS Modify Permissions**
+**5. NTFS Modify Permissions**
 
 The group was granted NTFS modify permissions on the folder.
 
@@ -97,7 +97,7 @@ The group was granted NTFS modify permissions on the folder.
 
 
 
-**## 6. NTFS Read Permissions**
+**6. NTFS Read Permissions**
 
 The group was granted NTFS read permission on the folder.
 
@@ -107,7 +107,7 @@ The group was granted NTFS read permission on the folder.
 
 
 
-**## 7. Access Testing - Modify Permission**
+**7. Access Testing - Modify Permission**
 
 A user with modify permission successfully created and deleted a file.
 
@@ -124,7 +124,7 @@ A user with modify permission successfully created and deleted a file.
 
 
 
-\## 8. Access Testing - Read Permission
+**8. Access Testing - Read Permission**
 
 A user with read permission was unable to read file contents of the shared folder.
 

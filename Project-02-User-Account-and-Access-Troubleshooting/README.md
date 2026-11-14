@@ -1,8 +1,8 @@
-**# Active Directory User \& Account Management**
+**Active Directory User & Account Management**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -14,7 +14,7 @@ The lab focuses on creating and managing domain user accounts, handling account 
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -36,7 +36,7 @@ The lab focuses on creating and managing domain user accounts, handling account 
 
 
 
-**## Environment**
+**Environment**
 
 
 
@@ -56,11 +56,11 @@ The lab focuses on creating and managing domain user accounts, handling account 
 
 
 
-**## Tasks Performed**
+**Tasks Performed**
 
-&#x20;
 
-**### 1. Create a Domain User**
+
+**1. Create a Domain User**
 
 
 
@@ -72,7 +72,7 @@ Created a test domain user account using Active Directory Users and Computers.
 
 
 
-**### 2. Verify the User in Active Directory**
+**2. Verify the User in Active Directory**
 
 
 
@@ -84,7 +84,7 @@ Verified that the new user account was successfully created in Active Directory.
 
 
 
-**### 3. Verify Domain User Login**
+**3. Verify Domain User Login**
 
 
 
@@ -96,7 +96,7 @@ Tested the domain user account from the Windows client.
 
 
 
-**### 4. Configure Account Lockout Policy**
+**4. Configure Account Lockout Policy**
 
 
 
@@ -108,7 +108,7 @@ Configured an account lockout threshold to help protect domain accounts against 
 
 
 
-**### 5. Test Account Lockout**
+**5. Test Account Lockout**
 
 
 
@@ -120,7 +120,7 @@ Tested the policy by entering an incorrect password repeatedly and verifying tha
 
 
 
-**### 6. Verify Account Lockout**
+**6. Verify Account Lockout**
 
 
 
@@ -132,7 +132,7 @@ Verified that the user account was locked after entering incorrect password repe
 
 
 
-**### 7. Unlock the User Account**
+**7. Unlock the User Account**
 
 
 
@@ -144,7 +144,7 @@ Unlock the user's account using Active Directory Users and Computers.
 
 
 
-**### 8. Disable the User Account**
+**8. Disable the User Account**
 
 
 
@@ -156,7 +156,7 @@ Disabled the domain user account.
 
 
 
-**### 9. Verify the Disabled Account**
+**9. Verify the Disabled Account**
 
 
 
@@ -168,7 +168,7 @@ Tested the account from the user's side and verified that the disabled account c
 
 
 
-**### 10. Re-enable the User Account**
+**10. Re-enable the User Account**
 
 
 
@@ -180,7 +180,7 @@ Re-enabled the disabled domain user account.
 
 
 
-**### 11. Reset the User Password**
+**11. Reset the User Password**
 
 
 
@@ -192,7 +192,7 @@ Performed the password reset for the domain user.
 
 
 
-**### 12. Test the Reset Password**
+**12. Test the Reset Password**
 
 
 
@@ -204,7 +204,7 @@ Tested the new password after performing the password reset.
 
 
 
-**### 13. Verify the New Password**
+**13. Verify the New Password**
 
 
 
@@ -216,7 +216,7 @@ Verified that the user could successfully authenticate using the updated passwor
 
 
 
-**### 14. Change the New Password After Reset**
+**14. Change the New Password After Reset**
 
 
 
@@ -228,7 +228,7 @@ Verified that the user successfully changed the new password.
 
 
 
-\### 15. Verify Group Membership
+**15. Verify Group Membership**
 
 
 

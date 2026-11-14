@@ -1,4 +1,4 @@
-**\*\*IT-Support-home-lab**\*\*
+**IT-Support-home-lab**
 
 This IT Support Home Lab Portfolio documents my hands-on IT support practice through practical projects in a virtual lab environment. It demostrates my developing technical skills in Windows Server, Active Directory, networking, Windows operating systems, remote desktop support, software installation, and Microsoft 365 applications.
 
@@ -22,7 +22,7 @@ Configured Active Directory security groups and NTFS permissions to control acce
 
 
 
-**### Project 02 - Active Directory User \& Account Management**
+**Project 02 - Active Directory User \& Account Management**
 
 
 
@@ -30,7 +30,7 @@ Configured Active Directory user accounts and account policies, and demonstrated
 
 
 
-**### Project 03 - Windows Network Troubleshooting**
+**Project 03 - Windows Network Troubleshooting**
 
 
 
@@ -38,7 +38,7 @@ Practiced Windows network troubleshooting using 'ipconfig', 'ping', 'nslookup', 
 
 
 
-**### Project 04 - Windows OS and Performance Troubleshooting**
+**Project 04 - Windows OS and Performance Troubleshooting**
 
 
 
@@ -46,7 +46,7 @@ Practiced Windows OS troubleshooting using built-in diagnostic tools in a virtua
 
 
 
-**### Project 05 - Remote Desktop and Connectivity Troubleshooting**
+**Project 05 - Remote Desktop and Connectivity Troubleshooting**
 
 
 
@@ -54,9 +54,25 @@ Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Win
 
 
 
-**### Project 06 - Windows Software Installation and Troubleshooting**
+**Project 06 - Windows Software Installation and Troubleshooting**
 
 
 
 Practiced software installation, application verification, uninstallation, and reinstallation on a Windows client. Used the official software installer and verified successful application and operation.
+
+
+
+**Project 07 - Microsoft 365 Web Application End-User Troubleshooting**
+
+
+
+Practiced end-user troubleshooting across Microsoft 365 web applications (Outlook, Teams, and OneDrive) in a virtual lab environment. Verified mail flow, resolved missing email issues using Focused Inbox and search filters, diagnosed Teams audio/video and OS-level device permissions, and configured OneDrive file uploads and sharing access controls.
+
+
+
+
+
+
+
+
 

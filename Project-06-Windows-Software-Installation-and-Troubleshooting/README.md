@@ -68,7 +68,7 @@ Opened Windows setting and reviewed the installed applications list to identify 
 
 
 
-<img src="./Evidence/02-Installed-Application.png" alt="check installed app">
+<img src="./Evidence/02-Installed-Applications.png" alt="check installed app">
 
 
 

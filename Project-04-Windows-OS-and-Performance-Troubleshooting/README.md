@@ -1,8 +1,8 @@
-**# Windows OS and Performance Troubleshooting**
+**Windows OS and Performance Troubleshooting**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -10,7 +10,7 @@ This project demonstrates hands-on Windows troubleshooting skills using built-in
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -24,7 +24,7 @@ This project demonstrates hands-on Windows troubleshooting skills using built-in
 
 
 
-**## Environment**
+**Environment**
 
 
 
@@ -36,11 +36,11 @@ This project demonstrates hands-on Windows troubleshooting skills using built-in
 
 
 
-**## Task Performed**
+**Task Performed**
 
 
 
-**### 1. System information**
+**1. System information**
 
 
 
@@ -52,7 +52,7 @@ Reviewed Windows system information, including the operating system and hardware
 
 
 
-**### 2. Task Manager**
+**2. Task Manager**
 
 
 
@@ -64,7 +64,7 @@ Reviewed running processes and their resource usage to understand how applicatio
 
 
 
-**### 3A. Task Manager - CPU Performance**
+**3A. Task Manager - CPU Performance**
 
 
 
@@ -76,7 +76,7 @@ Monitored CPU utilization and reviewed the performance graph to understand proce
 
 
 
-**### 3B. Task Manager - Memory Performance**
+**3B. Task Manager - Memory Performance**
 
 
 
@@ -88,7 +88,7 @@ Reviewed memory utilization to understand how much RAM was in use and how Window
 
 
 
-**### 4. Resource Monitor - Resource Usage**
+**4. Resource Monitor - Resource Usage**
 
 
 
@@ -100,7 +100,7 @@ Used Resource Monitor to examine system resource activity in more detail.
 
 
 
-**### 5. Available Disk Space**
+**5. Available Disk Space**
 
 
 
@@ -112,7 +112,7 @@ Checked available disk space to identify whether insufficient storage could cont
 
 
 
-**### 6. High Resource Usage Investigation**
+**6. High Resource Usage Investigation**
 
 
 
@@ -124,7 +124,7 @@ Investigated running processes and reviewed CPU and memory usage to practice ide
 
 
 
-**### 7. Startup Application**
+**7. Startup Application**
 
 
 
@@ -136,7 +136,7 @@ Reviewed applications configured to launch automatically when windows start.
 
 
 
-**### 8. Disable a Nonessential Startup Application**
+**8. Disable a Nonessential Startup Application**
 
 
 
@@ -154,7 +154,7 @@ Disabled a selected nonessential startup application to practice managing applic
 
 
 
-**### 9. Windows Update Status**
+**9. Windows Update Status**
 
 
 
@@ -166,7 +166,7 @@ Checked the Windows update page to review the system's update status.
 
 
 
-**### 10. Reliability Monitor**
+**10. Reliability Monitor**
 
 
 
@@ -178,7 +178,7 @@ Reviewed Windows reliability history to check for recorded application failures 
 
 
 
-**### 11. System File Checker (SFC)**
+**11. System File Checker (SFC)**
 
 
 

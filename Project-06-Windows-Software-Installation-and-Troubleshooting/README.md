@@ -40,7 +40,7 @@ This project demonstrates basic Windows software management tasks. Using a Windo
 
 &#x20; - 7-Zip
 
-&#x20; - Official 7-Zip Website ( https://www.7-zip.ort/ )
+&#x20; - Official 7-Zip Website ( https://www.7-zip.org/ )
 
 
 

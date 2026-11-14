@@ -1,14 +1,14 @@
-**# Windows Server File Share Access Control Using Active Directory Security Groups and NTFS Permissions**
+**Windows Server File Share Access Control Using Active Directory Security Groups and NTFS Permissions**
 
 
 
-**## Overview**
+**Overview**
 
 This project demonstrates configuring role-based access to a Windows Server shared folder using Active Directory security groups and NTFS permissions.
 
 
 
-**## Objectives**
+**Objectives**
 
 &#x20;    - 	Create Active Directory security groups for different access levels
 
@@ -24,7 +24,7 @@ This project demonstrates configuring role-based access to a Windows Server shar
 
 
 
-**## Environments**
+**Environments**
 
 &#x20;    -	Windows Server
 
@@ -40,11 +40,11 @@ This project demonstrates configuring role-based access to a Windows Server shar
 
 
 
-**## Evidence**
+**Evidence**
 
 
 
-**## 1. Active Directory Security Groups**
+**1. Active Directory Security Groups**
 
 Security groups are created in AD to manage access to shared folder based on user roles.
 

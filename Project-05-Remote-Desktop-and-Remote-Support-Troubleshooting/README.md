@@ -1,8 +1,8 @@
-**# Remote Desktop (RDP) Connectivity Troubleshooting**
+**Remote Desktop (RDP) Connectivity Troubleshooting**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -10,7 +10,7 @@ This project demonstrates basic Remote Desktop Protocol (RDP) connectivity testi
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -32,7 +32,7 @@ This project demonstrates basic Remote Desktop Protocol (RDP) connectivity testi
 
 
 
-**## Environment**
+**Environment**
 
 
 
@@ -52,11 +52,11 @@ This project demonstrates basic Remote Desktop Protocol (RDP) connectivity testi
 
 
 
-**## Tasks Performed**
+**Tasks Performed**
 
 
 
-**### 1. Lab Environment**
+**1. Lab Environment**
 
 
 
@@ -68,7 +68,7 @@ Reviewed the Windows Server and Windows client virtual machines used for the RDP
 
 
 
-**### 2. Server Hostname and IP Address**
+**2. Server Hostname and IP Address**
 
 
 
@@ -80,7 +80,7 @@ Used the 'hostname 'and 'ipconfig' commands to identify the server's hostname an
 
 
 
-**### 3. Remote Desktop Status**
+**3. Remote Desktop Status**
 
 
 
@@ -92,7 +92,7 @@ Checked the remote desktop setting in server manager local server and verified t
 
 
 
-**### 4. Client to Server Ping Test**
+**4. Client to Server Ping Test**
 
 
 
@@ -104,7 +104,7 @@ Used the 'ping' command form the Windows client to test network reachability to 
 
 
 
-**### 5. RDP Port 3389 Connectivity Test**
+**5. RDP Port 3389 Connectivity Test**
 
 
 
@@ -116,7 +116,7 @@ Used PowerShell 'Test-NetConnection' cmdlet to test TCP connectivity to port 338
 
 
 
-**### 6. Successful RDP Connection**
+**6. Successful RDP Connection**
 
 
 
@@ -128,7 +128,7 @@ Used the built-in Remote Desktop Connection tool ('mstsc.exe') to connect from t
 
 
 
-**### 7. Simulated TCP Connection**
+**7. Simulated TCP Connection**
 
 
 
@@ -142,7 +142,7 @@ Port 3309 was used as a test port; it is not the default RDP port.
 
 
 
-**### 8. Check the Test-Port Listener**
+**8. Check the Test-Port Listener**
 
 
 

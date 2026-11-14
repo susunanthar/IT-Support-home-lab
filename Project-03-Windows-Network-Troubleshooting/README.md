@@ -1,8 +1,8 @@
-**# Windows Network Troubleshooting**
+**Windows Network Troubleshooting**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -10,7 +10,7 @@ This project demonstrates basic windows network troubleshooting in a virtual lab
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -30,7 +30,7 @@ This project demonstrates basic windows network troubleshooting in a virtual lab
 
 
 
-**## Environment**
+**Environment**
 
 
 
@@ -48,11 +48,11 @@ This project demonstrates basic windows network troubleshooting in a virtual lab
 
 
 
-**## Tasks Performed**
+**Tasks Performed**
 
 
 
-**### 1. Network Configuration and Connectivity Testing**
+**1. Network Configuration and Connectivity Testing**
 
 
 
@@ -64,7 +64,7 @@ Used 'ipconfig' to review the Windows client's IP address, subnet mask, default 
 
 
 
-**### 2. Loopback Connectivity Test**
+**2. Loopback Connectivity Test**
 
 
 
@@ -76,7 +76,7 @@ Used 'ping 127.0.0.1' to verify that the local TCP/IP stack was responding. This
 
 
 
-**### 3. Default Gateway Connectivity Test**
+**3. Default Gateway Connectivity Test**
 
 
 
@@ -88,7 +88,7 @@ Used 'ping' to test connectivity to the default gateway. Successful replies indi
 
 
 
-**### 4. Windows Server Connectivity Test**
+**4. Windows Server Connectivity Test**
 
 
 
@@ -100,7 +100,7 @@ Used 'ping 192.168.100.10' to verify network connectivity between the Windows cl
 
 
 
-**### 5. Internet IP Connectivity Test**
+**5. Internet IP Connectivity Test**
 
 
 
@@ -114,7 +114,7 @@ Used 'ping 8.8.8.8' to test reachability to an external IP address without relyi
 
 
 
-**### 6. DNS Resolution Test**
+**6. DNS Resolution Test**
 
 
 
@@ -126,7 +126,7 @@ Used 'nslookup google.com' to check whether the DNS system could resolve a hostn
 
 
 
-**### 7. Hostname Connectivity Test**
+**7. Hostname Connectivity Test**
 
 
 
@@ -138,7 +138,7 @@ Used 'ping' to test connectivity to hostnames, including 'google.com' and the la
 
 
 
-**### 8. Network Path Inspection**
+**8. Network Path Inspection**
 
 
 
@@ -150,7 +150,7 @@ Used 'tracert google.com' to inspect the network path toward an external destina
 
 
 
-**## 9. Network Adapter Failure Simulation**
+**9. Network Adapter Failure Simulation**
 
 
 
@@ -162,7 +162,7 @@ Disabled the Windows client's network adapter to simulate a common connectivity 
 
 
 
-**## 10. Connectivity Test During Adapter Failure**
+**10. Connectivity Test During Adapter Failure**
 
 
 
@@ -174,7 +174,7 @@ Tested connectivity to the Windows Server while the adapter was disabled. The fa
 
 
 
-**## 11. Network Connectivity Restored**
+**11. Network Connectivity Restored**
 
 
 
@@ -190,7 +190,7 @@ Re-enabled the network adapter and tested connectivity to the Windows Server aga
 
 
 
-**## 12. Incorrect DNS Configuration**
+**12. Incorrect DNS Configuration**
 
 
 
@@ -202,7 +202,7 @@ Configured an intentionally incorrect DNS server address to simulate a DNS confi
 
 
 
-**## 13. DNS Troubleshooting Test**
+**13. DNS Troubleshooting Test**
 
 
 
@@ -214,7 +214,7 @@ Compared connectivity to an external IP address with hostname resolution using '
 
 
 
-**## 14. DNS Configuration Restored**
+**14. DNS Configuration Restored**
 
 
 
@@ -226,7 +226,7 @@ Restored the original DNS configuration and repeated the DNS and hostname connec
 
 
 
-**## 15. Unreachable Network Destination Test**
+**15. Unreachable Network Destination Test**
 
 
 

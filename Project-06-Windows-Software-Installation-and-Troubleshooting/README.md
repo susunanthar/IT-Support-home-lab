@@ -1,8 +1,8 @@
-**# Windows Software Installation and Troubleshooting**
+**Windows Software Installation and Troubleshooting**
 
 
 
-**## Overview**
+**Overview**
 
 
 
@@ -10,7 +10,7 @@ This project demonstrates basic Windows software management tasks. Using a Windo
 
 
 
-**## Objectives**
+**Objectives**
 
 
 
@@ -30,7 +30,7 @@ This project demonstrates basic Windows software management tasks. Using a Windo
 
 
 
-**## Environment**
+**Environment**
 
 
 
@@ -44,11 +44,11 @@ This project demonstrates basic Windows software management tasks. Using a Windo
 
 
 
-**## Tasks Performed**
+**Tasks Performed**
 
 
 
-**### 1. Verify the Windows Client Environment**
+**1. Verify the Windows Client Environment**
 
 
 
@@ -60,7 +60,7 @@ Checked the Windows version and OS build using the 'winver' command.
 
 
 
-**### 2. Review Installed Applications**
+**2. Review Installed Applications**
 
 
 
@@ -72,7 +72,7 @@ Opened Windows setting and reviewed the installed applications list to identify 
 
 
 
-**### 3. Download the Official Application Installer**
+**3. Download the Official Application Installer**
 
 
 
@@ -84,7 +84,7 @@ Accessed the official 7-Zip website and selected the appropriate Windows install
 
 
 
-**### 4. Install 7-Zip**
+**4. Install 7-Zip**
 
 
 
@@ -96,7 +96,7 @@ Ran the downloaded installer and followed the setup wizard to install 7-Zip on t
 
 
 
-**### 5. Verify Application Launch**
+**5. Verify Application Launch**
 
 
 
@@ -108,7 +108,7 @@ Opened 7-Zip File Manager after installation and confirmed that the application 
 
 
 
-**### 6. Verify the Installed Version**
+**6. Verify the Installed Version**
 
 
 
@@ -120,7 +120,7 @@ Opened the About 7-Zip window to check the installed application version.
 
 
 
-**### 7. Uninstall the Application**
+**7. Uninstall the Application**
 
 
 
@@ -132,7 +132,7 @@ Used Windows setting to uninstall 7-Zip, practicing a standard application remov
 
 
 
-\### 8. Reinstall and Verify the Application
+**8. Reinstall and Verify the Application**
 
 
 

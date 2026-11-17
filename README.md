@@ -1,6 +1,6 @@
 **IT-Support-home-lab**
 
-This IT Support Home Lab Portfolio documents my hands-on IT support practice through practical projects in a virtual lab environment. It demostrates my developing technical skills in Windows Server, Active Directory, networking, Windows operating systems, remote desktop support, software installation, and Microsoft 365 applications.
+This IT Support Home Lab Portfolio documents my hands-on IT support practice through practical projects in a virtual lab environment. It demonstrates my developing technical skills in Windows Server, Active Directory, networking, Windows operating systems, remote desktop support, software installation, and Microsoft 365 applications.
 
 
 
@@ -50,7 +50,7 @@ Practiced Windows OS troubleshooting using built-in diagnostic tools in a virtua
 
 
 
-Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Windows client and server virtual machines. Verified the server hostname and IP address, checked Remote Desktop configuration and Windows Firewall rules, tested network reachability with 'ping', and used PowerShelll to investigate TCP connectivity on port 3389. Successfully established a remote desktop session and practiced distinguishing ICMP reachability from TCP port availability.
+Practiced Remote Desktop Protocol (RDP) connectivity troubleshooting between Windows client and server virtual machines. Verified the server hostname and IP address, checked Remote Desktop configuration and Windows Firewall rules, tested network reachability with 'ping', and used PowerShell to investigate TCP connectivity on port 3389. Successfully established a remote desktop session and practiced distinguishing ICMP reachability from TCP port availability.
 
 
 
@@ -67,12 +67,4 @@ Practiced software installation, application verification, uninstallation, and r
 
 
 Practiced end-user troubleshooting across Microsoft 365 web applications (Outlook, Teams, and OneDrive) in a virtual lab environment. Verified mail flow, resolved missing email issues using Focused Inbox and search filters, diagnosed Teams audio/video and OS-level device permissions, and configured OneDrive file uploads and sharing access controls.
-
-
-
-
-
-
-
-
 
